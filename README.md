@@ -65,4 +65,4 @@ It uses only the Python standard library.
 
 ---
 
-Built by [Jake Stein](https://cojakestein-sketch.github.io). MIT licensed.
+Built by [Jake Stein](https://steinjake.github.io). MIT licensed.
